@@ -20,4 +20,6 @@ Most of function are written in AdversarialModel, it contains:
   - load method, to load model from filepath.
   - plot method, to plot models' train history.
 
+File with name main.py is a some sort of workspace. So it shows an example how to call my classes. All changes in models should be prepared in ml_model.py.
+
 Feel free to modify and use this code as much as You like.
